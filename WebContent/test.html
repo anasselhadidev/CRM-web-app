@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Homepage</title>
+</head>
+<body>
+<h2>Create User</h2>
+    <form action="http://localhost:8080/Test/reglog?action=create" method="POST">
+        <label for="nom">Nom :</label>
+        <input type="text" id="nom" name="nom">
+        
+        <label for="prenom">Prenom :</label>
+        <input type="text" id="prenom" name="prenom">
+        
+        <label for="pass">Pass :</label>
+        <input type="text" id="pass" name="pass">
+
+        <label for="email">Email :</label>
+        <input type="text" id="email" name="email">
+        
+        <input type="hidden" name="role" value="CLIENT">
+		
+
+        <input type="submit">
+    </form>
+    <form action="/Test/reglog?action=login" method="POST">
+		
+        <label for="email">Email :</label>
+        <input type="text" id="email" name="email">
+		
+        <label for="pass">Pass :</label>
+        <input type="text" id="pass" name="pass">
+
+        <input type="submit">
+    </form>
+
+</body>
+</html>
