@@ -41,6 +41,9 @@ Cette application CRM (Customer Relationship Management) est une plateforme web 
 > L'application permet une gestion centralisée et efficace de la relation client, adaptée à un environnement multi-acteurs. Elle améliore la productivité des administrateurs tout en offrant une interface fluide pour les utilisateurs.
 
 ---
+## 🤝 Collaboration
+
+Ce projet a été réalisé en collaboration avec [https://github.com/abdessalamzarrouk].
 
 ## 📷 Captures d’écran
 
