@@ -45,9 +45,10 @@ Cette application CRM (Customer Relationship Management) est une plateforme web 
 ## 📷 Captures d’écran
 
 <img width="933" alt="voir les réponses" src="https://github.com/user-attachments/assets/b280b5de-845d-4b95-b907-522a3329a926" />
-![RespoSondage3](https://github.com/user-attachments/assets/5296c8b3-9e4e-4823-ae53-5bf224223e88)
-![RespoSondage4](https://github.com/user-attachments/assets/87d9f238-e708-47b2-b87a-19bf5feed2f1)
-![RespoSondage5](https://github.com/user-attachments/assets/ae1dc2b6-ab4a-43e3-bf7a-a28ae5fd8bc0)
+![RespoSondage5](https://github.com/user-attachments/assets/931b91bb-74c0-47e8-b565-0271a296a408)
+![RespoSondage4](https://github.com/user-attachments/assets/6235abd0-7faa-41de-bbc8-4b2ca24a9b62)
+![RespoSondage3](https://github.com/user-attachments/assets/f389dcda-c600-4b95-b4a5-142e4246ff30)
+
 ## 🚀 Lancer le projet en local
 
 1. Cloner le dépôt :
