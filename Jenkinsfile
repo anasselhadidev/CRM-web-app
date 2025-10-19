@@ -1,6 +1,8 @@
 pipeline {
     agent any 
-
+    tools {
+        maven 'Maven-3.9'
+    }
     stages {
         stage('1. Checkout Source Code') {
             steps {
